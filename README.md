@@ -12,4 +12,5 @@ The repositor includes:
 -  Position Orianted Visual Servoing Script
 
 These scripts are used in a project called "Path Planning and Vision Guided Autonomous Quadrotor Navigation for PV System Inspection via ROS Environment" and you can reach youtube link of the project implementation in ROS Gazebo simulation environment.
-- Youtube link of the automation in simulation "https://www.youtube.com/watch?v=VJAnNdIeeBA" : 
+- Test flight in simulation => "https://www.youtube.com/watch?v=VJAnNdIeeBA" :
+- Test flight in *real-time* => "https://www.youtube.com/watch?v=LDif59FYVnk&ab_channel=Ali"
